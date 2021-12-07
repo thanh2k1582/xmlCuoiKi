@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sinhvien>
+  <nhanvien masv="SV01">
+    <hoten>Van Anh</hoten>
+    <masv>12345</masv>
+    <thongtinlienlac>
+      <email>vananh@gmail.com</email>
+      <dienthoai>098621821</dienthoai>
+    </thongtinlienlac>
+  </nhanvien>
+  <nhanvien masv="SV02">
+    <hoten>Phan Hồng Nam</hoten>
+    <masv>12312</masv>
+    <thongtinlienlac>
+      <email>hongnam@gmail.com</email>
+      <dienthoai>098621645</dienthoai>
+    </thongtinlienlac>
+  </nhanvien>
+  <nhanvien masv="SV03">
+    <hoten>Nguyen Van Hùng</hoten>
+    <masv>12313</masv>
+    <thongtinlienlac>
+      <email>vanhai@gmai.com</email>
+      <dienthoai>093831212</dienthoai>
+    </thongtinlienlac>
+  </nhanvien>
+  <nhanvien masv="SV05">
+    <hoten>Nguyễn Văn Thành</hoten>
+    <masv>12316</masv>
+    <thongtinlienlac>
+      <email>vanthanh2k@gmail.com</email>
+      <dienthoai>0778341291</dienthoai>
+    </thongtinlienlac>
+  </nhanvien>
+  <nhanvien masv="SV04">
+    <hoten>Nguyen Van Thành</hoten>
+    <masv>12313</masv>
+    <thongtinlienlac>
+      <email>vanhai@gmai.com</email>
+      <dienthoai>093831212</dienthoai>
+    </thongtinlienlac>
+  </nhanvien>
+</sinhvien>
